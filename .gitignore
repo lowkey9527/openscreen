@@ -27,3 +27,4 @@ release/**
 # npx electron-builder --mac --win.env
 .mcp.json
 .env
+.claude/
