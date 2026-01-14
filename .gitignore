@@ -24,4 +24,6 @@ dist-ssr
 *.sw?
 release/**
 *.kiro/
-# npx electron-builder --mac --win
+# npx electron-builder --mac --win.env
+.mcp.json
+.env
